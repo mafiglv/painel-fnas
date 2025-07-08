@@ -43,3 +43,16 @@ em parceria com o **Fundo Nacional de Assistência Social (FNAS)**.
 
 Tem como objetivo oferecer **visibilidade e controle interno** sobre o status das inscrições,  
 facilitando a organização do evento e o planejamento de ações com base em dados atualizados.
+
+---
+
+## ⚖️ Direitos autorais
+
+Este sistema é de uso **interno e exclusivo** da  
+**Secretaria de Assistência Social, Combate à Fome e Políticas sobre Drogas do Estado de Pernambuco**.  
+
+Todos os direitos sobre este código e suas funcionalidades estão reservados.  
+A reprodução, redistribuição ou modificação deste projeto sem autorização prévia está proibida.
+
+© 2025 — Equipe Técnica da SAS Pernambuco. Todos os direitos reservados.
+
