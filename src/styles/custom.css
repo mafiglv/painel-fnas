@@ -23,7 +23,7 @@ body {
 
 .card-clickable:hover {
   transform: scale(1.02);
-  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
 }
 
 .logo-img {
@@ -35,12 +35,13 @@ body {
   max-width: 500px;
   margin: 0 auto;
 }
+
 .text-highlight {
-  color: #002855; /* Azul marinho escuro, elegante */
+  color: #002855; 
 }
 
 .text-update {
-  color: #013d66; /* Cinza escuro para contraste e leitura */
+  color: #013d66;
   font-size: 0.95rem;
 }
 
@@ -51,10 +52,18 @@ body {
 .display-5 {
   font-size: 2.5rem;
 }
-
 @media (max-width: 768px) {
+  h1.display-5 {
+    font-size: 1.5rem;
+    padding: 0 1rem;
+  }
+
   .logo-img {
     width: 80%;
   }
-}
 
+  .fst-italic.text-update {
+    font-size: 0.85rem;
+    padding: 0 1rem;
+  }
+}

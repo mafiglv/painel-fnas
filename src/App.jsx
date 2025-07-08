@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <header className="text-center py-4 bg-navy text-white">
+      <header className="text-center py-2 bg-navy text-white">
         <img src={logo} alt="Logo" className="logo-img mb-2" />
         <h1 className="display-5 fw-bold text-highlight">
           Painel geral de inscrições - FNAS pelo Brasil
