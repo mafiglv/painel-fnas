@@ -25,19 +25,19 @@ const DashboardPanel = ({ stats }) => {
           value={stats.municipios_petrolina?.length ?? 0}
           onClick={togglePetrolina}
         />
-        <StatsCard title="Total de municípios inscritos" value={stats.total_municipios ?? 0} />
+        <StatsCard title="Total de Municípios Inscritos" value={stats.total_municipios ?? 0} />
       </div>
 
       {showJaboatao && (
         <MunicipalityList
-          title="Municípios com inscritos - Jaboatão"
+          title="Municípios inscritos - Jaboatão"
           municipios={stats.municipios_jaboatao}
         />
       )}
 
       {showPetrolina && (
         <MunicipalityList
-          title="Municípios com inscritos - Petrolina"
+          title="Municípios inscritos - Petrolina"
           municipios={stats.municipios_petrolina}
         />
       )}
