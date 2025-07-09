@@ -21,7 +21,7 @@ function App() {
           Painel geral de inscrições - FNAS pelo Brasil
         </h1>
         <p className="fst-italic text-update">
-          Atualizado 09/07/2025 às 09:00
+          Atualizado 09/07/2025 às 11:30
         </p>
       </header>
 
