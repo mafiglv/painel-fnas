@@ -22,6 +22,7 @@ function App() {
         </h1>
         <p className="fst-italic text-update">
           Atualizado 10/07/2025 às 10:15
+        </p>
       </header>
 
       <main className="container my-4">
